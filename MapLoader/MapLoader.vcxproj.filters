@@ -29,5 +29,19 @@
     <ClCompile Include="Map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MapLoaderDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="solar.map">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="google.map">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="invalidMap.map">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
